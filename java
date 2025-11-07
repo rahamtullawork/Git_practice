@@ -7,3 +7,6 @@ Rich API and Standard Libraries: Java provides extensive built-in libraries for 
 Frameworks for Enterprise and Web Development: Java supports frameworks that simplify enterprise and web application development.
 Open-Source Libraries: Java has a wide range of libraries to extend functionality and speed up development.
 Maintainability and Scalability: Java’s structured design allows easy maintenance and growth of applications.
+Understanding the Hello World Program in Java
+When we learn any programming language, the first step is writing a simple program to display "Hello World". 
+So, here is a simple Java program that displays "Hello World" on the screen.
